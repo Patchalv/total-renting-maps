@@ -1,5 +1,5 @@
 'use client'
-import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
+import { GoogleMap, InfoWindow, LoadScript, Marker } from '@react-google-maps/api';
 import Papa from 'papaparse';
 import { useEffect, useState } from 'react';
 import { Station } from '../typings';
@@ -12,6 +12,7 @@ const StationMap = () => {
     const [stations, setStations] = useState<Station[]>([]);
     const [isModalOpen, setIsModalOpen] = useState(false);
     const [showSnackbar, setShowSnackbar] = useState(false);
+    const [selectedStation, setSelectedStation] = useState<Station | null>(null);
   
     useEffect(() => {
         fetch('/Gas Stations.csv')
@@ -55,8 +56,28 @@ const StationMap = () => {
                   key={index}
                   position={{ lat: parseFloat(station.latitud), lng: parseFloat(station.longitud) }}
                   title={station.marca}
+                  onClick={() => setSelectedStation(station)}
                 />
               ))}
+              {selectedStation && (
+                <InfoWindow
+                  position={{ 
+                    lat: parseFloat(selectedStation.latitud), 
+                    lng: parseFloat(selectedStation.longitud) 
+                  }}
+                  onCloseClick={() => setSelectedStation(null)}
+                >
+                  <div className="p-2">
+                    <h3 className="font-bold">{selectedStation.marca}</h3>
+                    <p>Marca: {selectedStation.marca}</p>
+                    <p>Localidad: {selectedStation.localidad}</p>
+                    <p>Direccion: {selectedStation.direccion}</p>
+                    <p>Telefono: {selectedStation.telefono}</p>
+                    <p>Horario: {selectedStation.horario}</p>
+                    <p>Fecha: {selectedStation.fecha}</p>
+                  </div>
+                </InfoWindow>
+              )}
             </GoogleMap>
           </LoadScript>
           {isModalOpen && (
