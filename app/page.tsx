@@ -4,7 +4,7 @@ import StationMap from './components/StationMap';
 
 const Page: React.FC = () => {
   return (
-    <div>
+    <div className="px-2 lg:px-20 py-6 lg:py-10">
       <StationMap />
     </div>
   );
