@@ -1,0 +1,622 @@
+id,localidad,direccion,marca,telefono,horario,latitud,longitud,fecha
+37376,Hu&eacute;rcal de Almeria,CR N-340 A. 446.5,Repsol,950 144 173,Cerrado Noches,36.87495,-2.445126,2014-03-14
+37377,Andujar,CR A-4 KM 326 M.I,Repsol,953 500 912,L-D: 24 Horas,38.029704,-4.079922,2014-02-11
+37378,Antequera,CL EL EFEBO N&deg; 1,Repsol,952 703 700,L-D: 24 Horas,37.029486,-4.534683,2014-03-10
+37379,Ayamonte,CL RIBERA DEL GUADIANA PARC. 112,Cepsa,959 320 064,Lunes a Sabado de 8h a 15h. Cerrado Domingos y Festivos,37.232233,-7.392492,2015-07-15
+37381,Cantillana,Ctra. A-805. Km21. 300,Vitogas,955 952 056,L-D: 24 Horas,37.575457,-5.808284,2014-02-19
+37382,Churriana,CR C-344 PK 89.9,BP,952 490 358,L-D: 24 Horas,36.660897,-4.502379,2014-02-19
+37383,Cordoba,C/ San Alberto Magno s/n. (almac&eacute;n de butano - zona Urende Aeropuerto).,Repsol,957 231 719,L-V:07:30 a 13:30 y de 16:30 a 21:00 S:07:30 a 13:00 FESTIVOS: Cerrado,37.86956,-4.800534,2014-02-19
+37384,Cordoba,Ctra. Palma del R&iacute;o. Km. 4 M.I. - Centro Transporte Mercanc&iacute;as,Repsol,957 22 78 46,L-D: 24 horas,37.876988,-4.841453,2014-02-19
+37385,Cordoba,Avenida de la igualdad S/N,Repsol,957 256 099,L-D: 24 Horas,37.897341,-4.766562,2014-02-19
+37386,El Ejido,CL AVENIDA OASIS - BO. STO.DOMINGO. S.,Repsol,950 482 236,Cerrado Noches,36.758424,-2.805377,2014-02-19
+37387,Fuengirola,AV Las Salinas-Loma Baja. S.N,Repsol,952 197 195,Cerrado Noches,36.500262,-4.68596,2014-02-19
+37388,Granada,Carretera Antigua de M&aacute;laga. km 4. Pago de Fatinafar.,Repsol,958 294 000,L-V: 08:00 a 21:00 S: 08:00 a 14:00 FESTIVOS: 08:00 a 14:00,37.19075,-3.636306,2014-02-19
+37389,Granada,AVENIDA DE LAS ALPUJARRAS S/N,Repsol,,L-D: 24 Horas,37.18386,-3.624074,2014-03-10
+37390,Guarroman,CR N-4. 280,Repsol,953 616 162,L-D: 24 Horas,38.196506,-3.673045,2014-02-19
+37391,Guillena,CR N-630. 799,Repsol,955 785 023,L-D: 24 Horas,37.508041,-6.074348,2014-02-19
+37392,Huelva,C/ Isaac Alb&eacute;niz. 2. 21001,Repsol,959 262 100,L-V: 08:00 a 21:00 S: 08:00 a 14:00 FESTIVOS: Cerrado,37.239041,-6.952461,2014-02-19
+37393,Huelva,CL CERCO. 2. POLIGONO PESQUERO NORTE,Repsol,959 254 138,Cerrado Ncohes,37.267432,-6.958268,2014-02-19
+37394,Jaen,CR N-321. 58.8,Repsol,953 243 995,L-D: 24 Horas,37.777906,-3.811594,2014-02-19
+37395,Jerez de la Frontera,Carretera Jerez Los Barrios Km 2.2 hijuela toc&oacute;n,Repsol,956 810 862,L-V: 9:00 a 13:00 y 14:00 a 16:00 (del 15/06 a 15/09 de 9:00 a 15:00) S: 9:00 a 13:00 FESTIVOS: Cerrado,36.664417,-6.113078,2014-02-19
+37396,Jerez de la Frontera,C/Martin Ferrador S/N,Repsol,956 303 306,L-D: 24 Horas,36.688966,-6.127735,2014-02-19
+37397,Loja,CR N-342. 483,Repsol,958 320 044,L-D: 24 Horas,37.164523,-4.137163,2014-02-19
+37398,Los Barrios,Crta A-381 P.K. 94 M.I.,Repsol,956 622 967,L-D: 06.00 A 22.00,36.200426,-5.515106,2014-02-21
+37399,Mairena de Aljarafe,AVDA. CUBA. s/n,Repsol,954 187 100,L-D: 24 Horas,37.351797,-6.047518,2014-02-21
+37400,Malaga,Avda. Valle-Incl&aacute;n. 12,Repsol,952 27 43 62,L-D: 24 Horas,36.736374,-4.434339,2014-02-21
+37401,Malaga,C/ Concepci&oacute;n Arenal. s/n,Repsol,952 238 245,L-V: 6:00 a 22:00 S: 6:00 a 22:00 FESTIVOS: 6:00 a 22:00,36.690154,-4.48294,2014-02-21
+37402,Marbella,Avda. de Ricardo Soriano. 51,Repsol,952 821 307,L-D: 24 Horas,36.510248,-4.896932,2014-02-21
+37404,Minas de Riotinto,CR HU-421. 4.4,Repsol,959 591 831,L-D: Cerrado por la noche,37.694688,-6.604117,2014-03-10
+37665,Albacete,Chinchilla,"A-31 PK. 86,4 A MARGEN DERECHO",Repsol,967 260 557,Cerrado noches,38.937907,-1.757889
+37405,Salobre&ntilde;a,CL AVENIDA PERONNE. S.N.,Repsol,958 612 130,Cerrado noche,36.740346,-3.58427,2014-02-21
+37406,Sevilla,Avenida Roberto Osborne 16. Pol&iacute;gono Ind. Carretera Amarilla,Repsol,954 519 499,L-V: 8:00 a 20:00 S: 8:00 a 20:00 FESTIVOS: 8:00 a 20:00,37.393261,-5.946675,2014-02-21
+37407,Camas,CR SE-610. Km 0.9,Repsol,954 391 235,L-D: 06:00 a 22:00,37.381428,-6.026584,2014-03-10
+37408,Gines,CR SE-625. Km 0.750,Repsol,954 713 005,L-D: 06:00 a 22:00,37.377703,-6.081653,2014-03-10
+37409,Sevilla,CTRA. SE-30. Km 0.1,Repsol,954 359 309,L-D: 24 Horas,37.416638,-5.95531,2014-03-10
+37410,Sevilla,CL AVENIDA MONTESIERRA. S.N.,Repsol,954 529 817,L-D: 24 Horas,37.393167,-5.953186,2014-02-21
+37411,Roquetas de mar,CR E-15 .P.K. 429 (N-340 SALIDA (ROQUETAS DE MAR),Repsol,950 551 297,L-D: 24 Horas,36.819403,-2.597862,2014-03-10
+37412,Ja&eacute;n,"CR MADRID Km 2,7",BP,953 280 421,L-D: 06:00 a 22:00,37.788675,-3.781811,2014-02-21
+37413,Torremolinos,CL AVDA. MANUEL FRAGA IRIBARNE. 9,Repsol,952 375 154,L-D: 24 Horas,36.641461,-4.494978,2014-02-21
+37414,¢eda,AVDA. CRISTO REY. S.N.,Repsol,953 751 423,"Cerrado noches
+ 
+
+ SBADOS Y DOMINGOS. ABIERTO 24 HORAS",38.014271,-3.384113,2014-02-21
+37415,Huesca,C/ Martinez Velasco 53,Repsol,974 242 635,L-D: 6:00 a 22:00,42.131474,-0.419113,2014-02-21
+37416,Puebla de alfiden,CR A-2. 333.8 (Margen Izquierdo),Repsol,976 107 207,L-D: 24 Horas,41.640616,-0.754464,2014-03-10
+37664,Toledo,Quintanar de la Orden,"CR N-301, 122",Repsol,925 180 462,Cerrado Noches,39.586889,-3.035962
+37417,Puebla de alfiden,"CR A-2. 333.8 (Margen Derecho)
+ 
+
+ C.P. 50171 UEBLA DE ALFINDN. ZARAGOZA",Repsol,976 455 570,L-D: 24 Horas,41.640776,-0.756631,2014-02-21
+37418,Teruel,AVDA. DE SAGUNTO-FUENFRESCA. S.N (Cp: 44002 Teruel),Repsol,978 606 579,L-D: 24 Horas,40.332638,-1.087599,2014-02-27
+37419,Zaragoza,Avenida G&oacute;mez Laguna 151-155,Repsol,976 750 264,L-S: 8:00 a 21:00,41.634049,-0.923411,2014-02-27
+37420,Zaragoza,Autov&iacute;a de Logro&ntilde;o. km 0.300,Repsol,976 330 745,L-D: 24 Horas,41.660377,-0.925451,2014-02-27
+37421,Zaragoza,AVENIDA HISPANIDAD. 16,Repsol,976 354 216,L-D: 24 Horas,41.633856,-0.908959,2014-02-27
+37423,Asturias,Gij&oacute;n,Avenida del Transporte. 18. Pol Ind Los Campones. Parcelas. 1 y 4 (Antigua Crta. AS-19. intersecci&oacute;n con C/ Trinchera)Š,Repsol,985 324 659,L-D: 6:00 a 22:00 Horas,43.529836,-5.707079
+37424,Asturias,Mieres,POL. IND. VEGA DE ARRIBA. S/N,Repsol,985 451 764,Cerrado noche,43.236809,-5.778675
+37425,Asturias,Oviedo,"C/ Pe&ntilde;a Santa 61. Pol. Ind. de Silvota-Llanera 
+ 
+
+ Lat: 43&deg; 25&rsquo; 6.22&rsquo;N Long: 5&deg; 48&rsquo; 37.92&rsquo;W",Repsol,985 262 751,L-V: 08.00 A 22.00 S: 08:00 a 14:00 y 15:00 a 18:00 FESTIVOS: 08:00 a 14:00,43.418484,-5.810701
+37426,Asturias,Oviedo,Crta. N-634. Km. 406. Margen Derecho (C/ De la Tenderina Baja. s/n),Repsol,985 110 697,L-D: 24 Horas,43.371162,-5.815826
+37427,Asturias,Oviedo,CTRA. AS-18. KM. 2,Repsol,985 282 511,L-D: 24 Horas,43.377932,-5.832971
+37428,Asturias,Tamon Carre&ntilde;o,AUTOPISTA A-8. KM. 394,Repsol,985 518 098,Cerrado Noches,43.51416,-5.819837
+37429,Asturias,Tamon Carre&ntilde;o,AUTOPISTA A-8 P.K. 401.5 I,Repsol,985 518 084,Cerrado noches,43.511491,-5.817445
+37430,Baleares,Alcudia,V&iacute;a de Corneli Atic. 5,Repsol,971 54 56 32,L-D: 24 Horas,39.843588,3.123517
+37431,Baleares,Calvia,Crta. Calvia a Capdella. Km. 1.5,Repsol,w1 682 060,"L-V: 8:00 a 13:00 y 15:00 a 19:00 S: 8:00 a 13:00
+ 
+
+ FESTIVOS: Cerrado",39.568431,2.490708
+37432,Baleares,Ciutadella,CL PINTOR TORRENT. 10,Repsol,971 480 489,L-D: 24 Horas,40.007773,3.832482
+37433,Baleares,Inca,Camino Puig de Santa Magdalen s/ninca Ses Veles - Poligono 8 Parcela 1),Repsol,971 50 20 01,"L-V: 8:00 a 18:30
+ 
+
+ S: 8:00 a 13:00
+ 
+
+ Domingos y Festivos: Cerrado",39.731053,2.940226
+37434,Baleares,Mahon,CR ME-1 . Km 1.50,Repsol,,Cerrado noche,39.890869,4.248747
+37435,Baleares,Manacor,Carretera Palma-Art&aacute;. km 44.5,Repsol,971 551 995,L-V: 07:00 a 20:00 S: 07:00 a 20:00 FESTIVOS: Cerrado,39.573476,3.159582
+37436,Baleares,Palma,Cremio Silleros y Albarderos 12. Pol&iacute;gono Son Castell&oacute;,Repsol,971 432 743,L-D: 07:00 a 23:00,39.60582,2.658302
+37437,Baleares,Palma,Cami Nou de Son Banya s/n. Son Ferriol,Repsol,971 428 603,L-D: 06:00 a 22:00,39.565702,2.720679
+37753,Santa Perpetua de Mogoda,"Autopista AP-7 P.K. 144,00 M.I. (Dir. Sur)",Repsol,,L-D 24 Horas,41.526395,2.16688,2015-02-05
+37754,Malaga,"CR N-340, 231,9",Repsol,952 231 661,L-D 24 Horas,36.673376,-4.47676,2015-02-05
+37439,Baleares,Palma,Aeropuerto Palma de Mallorca,Repsol,971 787 901,L-D: 24 Horas,39.546027,2.722259
+37440,Las Palmas,Las Palmas de Gran canarias,"C/ DR. JUAN DOMINGUEZ PEREZ. 11
+ 
+
+ 35008 Las Palmas Gran Canarias",Disa,682 248 137,L-D: 06:00 a 22:00,28.153486,-15.417719
+37442,Cantabria,Cabrojo,Crta. Nacional 634. Km. 244.20 (Marg&eacute;n Derecho),Repsol,942 708 893,L-V: 06.30 A 23.00 S Y FESTIVOS: 07:30 a 23:00,43.328376,-4.191507
+37443,Cantabria,Hoznayo,Crta. General s/n (salida 195 - Barrio Hoznayo - A8),Repsol,942 52 42 12,L-D: 24 Horas,43.389838,-3.683458
+37444,Cantabria,Laredo,CR N-634. 171 (B&deg;. EL CALLEJO. S/N),Repsol,942 605 621,Cerrado Noches,43.400012,-3.439253
+37671,Rueda,CR N-VI 17,Independiente,983 868 301,L-D: 24 horas,41.441544,-4.97963,2014-03-10
+37447,Cantabria,Reocin,Autopista del Cant&aacute;brico A-8 Km/salida.234,Shell,942 820 232,L-D: 07:00 a 23:00,43.35635,-4.094351
+37448,Cantabria,Santander,Calle camus 75,Repsol,942 390 000,L-V: 08.00 A 20.00 S: 08:00 a 22:00 FESTIVOS: 08:00 a 22:00,43.485318,-3.799941
+37449,Cantabria,Santander,C/ Cardenal Herrera Oria. 38 - Barrio Cazo&ntilde;a,Repsol,942 341 550,L-D: 24 Horas,43.459118,-3.840935
+37450,Cantabria,Santiago de Cartes,CR N-611 (ANTIGUA). 182,Repsol,942 88 35 18,L-D: 24 Horas,43.332709,-4.065575
+37451,Albacete,Albacete,Paso de la Cuba 15,Repsol,967 247 264,L-V: 8.00 a 20.00 S y Festivos: 8.00 a 14.00,38.999611,-1.854472
+37453,Albacete,Albacete,AUTOVA A-31. SALIDA 69,Repsol,629 922 600,L-D: 24 Horas,39.032519,-1.890406
+37454,Toledo,Cazalegas,CTRA. A-5. P.K. 104.3,Repsol,925 872 572,L-D: 24 Horas,39.988652,-4.704627
+37455,Ciudad Real,Ciudad Real,CTRA. CR-514. P.K. 0.300,Repsol,926 226 554,Cerrado Noches,38.970979,-3.925801
+37456,Ciudad Real,Daimiel,CL TIBURCIO. 98,Repsol,,Cerrado Noches,39.06212,-3.618054
+37457,Guadalajara,Guadalajara,AV FRANCIA. S.N.,Repsol,949 298 830,L-D: 24 Horas,40.64327,-3.142681
+37458,Toledo,Illescas,CTRA. A-42. KM. 32.200,Repsol,925 513 509,L-D: 24 Horas,40.150571,-3.824211
+37459,Cuenca,Motilla del Palancar,Ctra de Albacete Km 72,Skid,969 333 036,,39.553258,-1.903168
+37460,Toledo,Talavera de la Reina,CL CALERA. 100,Repsol,925 806 776,Cerrado Noches,39.95329,-4.84753
+37461,Toledo,Talavera de la Reina,"Pavimentos Moro
+ 
+
+ Avda. Francisco Aguirre 418.",Skid,925 802 066,L-V: 07.300 A 22.00 S: 07:30 a 22:00 FESTIVOS: 09:00 a 21:00,39.960017,-4.846176
+37462,Toledo,Toledo,"Tomas Garc&iacute;a Autom&oacute;viles
+ 
+
+ Calle del R&iacute;o Valcavero 5",Skid,925 240 863,"L-V: 8.30 a 13.00 y de 15.30 a 19.00
+ 
+
+ S: 9.00 a 13.00",39.866501,-3.962011
+37463,Aranda de Duero,CL AVENIDA CASTILLA. 64,Repsol,947 507 606,L-D: 24 Horas,41.662405,-3.6916,2014-02-28
+37466,Benavente,"A-52 Salida 4 Villabr&aacute;zaro - Carretera Alcubilla (Benavente-Manganeses). 
+ 
+
+ km 1.5",Repsol,980 638 027,L-D: 06:00 a 23:00,42.020446,-5.698002,2014-02-28
+37467,Burgos,"Portugas Sport
+ 
+
+ C/ Vitoria 258",Skid,947 485 013,L-D: 7:00 a 23:00,42.355024,-3.66257,2014-02-28
+37468,Burgos,Carretera N-120 P.K. 108.3,Repsol,947 470 999,L-D: 24 Horas,42.344746,-3.648422,2014-02-28
+37469,Quintanapalla,CTRA. AP-1 Km 12,Repsol,947 430 448,L-D: 24 Horas,42.40409,-3.549927,2014-03-04
+37470,Due&ntilde;as,CR A-62. KM. 88.9 M. IZQ,Repsol,979 773 418,L-D: 24 Horas,41.913372,-4.510688,2014-03-04
+37670,Alicante,Crevillente,CR A-37 P.K. 728,Repsol,965 400 319,L-D: 24 Horas,38.195917,-0.812176
+37471,Leon,C/ Cruz Roja de Leon. S/N (Margen Derecho),Repsol,987 242 588,L-D: 24 Horas,42.604621,-5.579151,2014-03-04
+37472,ponferrada,CR A-6 . P.K. 390.3 M.D.,Repsol,987 426 982,Cerrado Noches,42.584449,-6.625618,2015-05-22
+37473,Palencia,CL AVENIDA CAMPOS GOTICOS. S.N,Repsol,979 723 336,Cerrado Noches,42.013603,-4.525697,2014-03-04
+37474,Salamanca,C/ Avenida de Raimundo Borgo&ntilde;a.,Repsol,923 223 018,L-V: 9.00 a 13.30 y 15.30 a 19.00,40.978375,-5.663078,2014-03-04
+37475,Valdecarpinteros,CTRA. N-620. KM. 313.3,Repsol,923 480 313,L-D: 24 Horas,40.663316,-6.43753,2014-03-04
+37476,Arapiles,CTRA. CV-70 KM. 1.6,Repsol,923 28 88 88,Cerrado Noches,40.89483,-5.658091,2014-03-04
+37477,Segovia,CR N-603 93.6,Repsol,921 440 496,Cerrado Noches,40.927375,-4.109341,2014-03-04
+37478,Soria,CR N-122. Km 146,Repsol,975 052 968,Cerrado Noches,41.762653,-2.40485,2014-03-04
+37479,Valladolid,Centrolid: C/ Camino Cabildo. s/n (Avda del Euro),Repsol,983 37 55 51,L-V de 7h a 22h Sabado de 8-22 h,41.674691,-4.718395,2014-03-04
+37480,Valladolid,CR VALLADOLID-CIGALES KM 1.7,Cepsa,983 583169,L-V: 09:00 a 22:00 S: 09:00 a 13:00 FESTIVOS: Cerrado,41.720657,-4.708791,2014-03-04
+37481,Valladolid,c/ Bronce s/n. Parcela 153. Pol&iacute;gono de Argales,Repsol,983 22 58 89,L-D: 7:00 a 23:00,41.615651,-4.736407,2014-03-04
+37482,Villagodio,CR N-122. 453.8 D,Repsol,980 519 032,Cerrado Noches,41.527311,-5.700234,2014-03-04
+37876,Madrid,Madrid,Av. de Canillejas a Vicalvaro,Galp,917 75 69 98,L-D: 24 horas,40.426572,-3.611705
+37484,Badalona,CL INDUSTRIA. 629,Repsol,933 830 956,Cerrado Noches,41.431393,2.232573,2014-03-04
+37485,Badalona,CL AVENIDA PRESIDENT COMPANYS. 280,Repsol,933 953 953,L-D: 24 Horas,41.459943,2.248951,2014-03-04
+37486,Banyoles,CL ALFONSO XII. 161,Repsol,972 571 662,Cerrado Noches,42.124647,2.762877,2014-03-04
+37487,Barbera del Valles,CL RONDA SANTA MARIA .202-210,Repsol,937 180 199,Cerrado Noches,41.521367,2.129199,2014-03-04
+37488,Barcelona,Carrer de Collserola. 2 junto a Ronda de Dalt,Repsol,93 418 91 38,L-D: 24 Horas,41.416116,2.136261,2014-03-04
+37489,Barcelona,CL N.6-SEC.C (ZONA FRANCA-MERCABARNA),Repsol,933 355 991,L-D: 24 Horas,41.327733,2.113499,2014-03-04
+37490,Barcelona,E.S. Villa Ol&iacute;mpica: Avenida Litoral. 49,Repsol,932 219 593,L-D: 24 Horas,41.393005,2.204043,2014-03-04
+37491,Barcelona,AP-7 KM. 144 (Dir Norte. Francia),Repsol,,L-D: 24 Horas,41.525917,2.167337,2015-02-05
+37492,Barcelona,Tibidabo 54-56 Satn Adria de Bessos,Galp,934 622 139,L-D: 24 Horas,41.427114,2.210739,2014-03-04
+37493,Barcelona,Avinguda de Pi i Margall. Satn Adria de Bessos,Meroil,93 381 11 38,L-D: 24 Horas,41.428594,2.211898,2014-03-04
+37494,Barcelona,CL Paseo de Santa Coloma. 71-73 (NUDO TRINIDAD),Repsol,933 117 001,L-D: 24 Horas,41.447053,2.195075,2014-03-04
+37496,Bellvei,CR N-340. P.K. 1194.3,Repsol,977 667 343,Cerrado noches,41.234898,1.566189,2014-03-04
+37855,Puig-reig,"08692 Puig-reig, Barcelona",Libre,-,Todos los ds de 7 a 22h,41.9625202,1.880130201,2018-07-26
+37498,Blanes,Avenida. Acceso Costa Brava. 22,Repsol,"972 331 022
+ 
+
+ 972 331 015","L-V: 09:00 a 13:00 y 15:00 a 19:00
+ 
+
+ S: 09:00 a 13:00",41.678714,2.777973,2014-03-04
+37499,Calonge,CR GE-667 . P.K. 1,Repsol,972 650 569,Cerrado Noches,41.858247,3.072474,2014-03-04
+37500,Celr&aacute;,CR C-66. 30.5,Repsol,972 492 029,Cerrado Noches,42.025407,2.864974,2014-03-05
+37501,Canovelles,C/ DE LA INDUSTRIA. 104,Repsol,938 40 25 00,Cerrado Noches,41.626045,2.283222,2014-03-21
+37502,Cornell&aacute; del llobregat,Av de la Fama. nos. del 2 al 10,Meroil,93 377 52 28,L-D: 24 Horas,41.353876,2.080975,2014-03-05
+37503,Castell Platja d'aro,AV DE CASTELL D.ARO. 12.2,Repsol,972 827 399,L-D: 24 Horas,41.815907,3.051297,2014-03-05
+37504,El Prat de Llobregat,Avda 11 de Septiembre. Ctra. Garraf Km. 21,Agip,934 786 234,L-D: 24 Horas,41.314305,2.06929,2014-03-05
+37505,El Prat de Llobregat,Aeropuerto de El Prat,Repsol,937 368 889,"L-V: 9.00-13.30 y 16.00-19.00 
+ 
+
+ S: 9.00-13.00 FESTIVOS: Cerrado",41.303635,2.070941,2014-03-05
+37506,Esparraguera,CR A-2. Km 581.5,Repsol,937 773 957,L-D: 24 Horas,41.528339,1.88116,2014-03-05
+37755,Castellon,Benicarl&oacute;,"CR N-340, 1042,1",Repsol,964 472 002,Cerrado Noches,40.413169,0.40314
+37508,Gava,CL TARRAGONA. 29-31,Repsol,936 333 333,6:00 a 22:00 (domingos y festivos. cerrado),41.297999,2.014875,2014-03-05
+37509,Gava,Autov&iacute;a C-32 sentido Tarragona,Repsol,936 627 936,Cerrado Noches,41.288739,2.000603,2014-03-05
+37510,Gava,Autov&iacute;a C-32 sentido Barcelona,Repsol,936 627 936,Cerrado Noches,41.286772,2.000667,2014-03-05
+37511,Gerona,CR N-2 P.K. 772.50 MD,Repsol,972 55 44 71,"L-V: 9.00-13.30 y 15.30-20.00 
+ 
+
+ S: 10.00-13.00 y 16.00-20.00
+ 
+
+ Festivos y domingos: Cerrado",42.398678,2.882256,2014-03-05
+37512,Gerona,C/ Barcelona. 208,Repsol,972 201 929,L-D: 24 Horas,41.962586,2.811016,2014-03-05
+37513,Hospitalet del Llobregat,Rambla Marina. 428,Repsol,93 263 29 85,L-D: 6:00 a 23:00 Horas,41.353612,2.106456,2014-03-05
+37514,Hospitalet del Llobregat,CALLE SALVADOR ESPRIU 59 esq. AVD. GRAN VIA DE L&rsquo;HOSPITALET,Repsol,932 632 203,L-D: 24 Horas,41.355503,2.126709,2014-03-05
+37515,Igualada,AVDA DE EUROPA. 26 (PG. INDUST. IGUALADA),Repsol,938 055 807,7:00 a 22:00 (domingos y festivos. cerrado),41.595972,1.631715,2014-03-05
+37857,Bizkaia,BERANGO,"POLIGONO LANDAIA GOIKOA, Sector 3, Parcelas P1 y P2",Repsol,946 181 940,Cerrado noches,43.3725,-2.996667
+37678,Olot,"CL CRTA. STA. COLOMA, S.N.",Repsol,972 260 185,Cerrado Noches,42.17196,2.478574,2014-03-25
+37517,La Roca del Valles,CR C-1415. 17.4,Repsol,938 422 992,L-D: 24 Horas,41.59659,2.309143,2014-03-05
+37518,Granyanella,AUTOVIA A2. PK 513.8,Repsol,973 532 323,L-D: 8.00-21.00,41.666276,1.210984,2014-03-05
+37519,Lleida,Pol&iacute;gono Industrial Del Segre 504,Repsol,973 203 091,"L-V: 9 - 13 h.915 - 20 horas
+ 
+
+ sabados : 9 - 13 horas.$omingos y festivos",41.626486,0.660691,2014-03-05
+37521,Lleida,CL AVDA.DEL EJERCITO . 2,Repsol,973 270 466,Cerrado Noches,41.60773,0.616001,2014-03-05
+37522,Manresa,C/ IGUALADA S/N,Repsol,938 735 112,L-V 08:00 a 19:00,41.716213,1.813118,2014-03-05
+37523,Manresa,CR C-37. 95.39,Repsol,938 770 167,Cerrado Noches,41.73814,1.809841,2014-03-05
+37524,Martorell,CRTA. N-2. km 591 - POLGONO IND. CONGOST,Repsol,937 753 720,Cerrado Noches,41.464819,1.948297,2014-03-05
+37525,Mataro,AVDA. PUIG I CADAFALCH 284,Repsol,937 579 289,Cerrado Noches,41.541104,2.421202,2014-03-05
+37526,Molins de Rei,CR AP-2. 8.5,Repsol,936 688 550,L-D: 24 Horas,41.39358,2.024686,2014-03-14
+37527,Mollet del Valles,C/ las Palmas S/N,Repsol,935 448 463,Cerrado Noches,41.532194,2.194174,2014-03-05
+37528,Moncada,Rambla Paisos Catalans. 5,Repsol,935 643 003,Cerrado Noches,41.491699,2.185109,2014-03-05
+37864,Sevilla,"CR N-4, p.k. 537,6.",Repsol,954 511 821,L-D: 24 horas,37.405654,-5.956061,2018-11-27
+37530,Reus,AVDA. S. BERNAT CALBO n&deg; 26.,Repsol,977 772 299,Cerrado Festivos,41.144633,1.10553,2014-03-05
+37531,Sabadell,CL Joaqu&iacute;n Blume. 1,Repsol,937 122 463,L-D: 24 Horas,41.532258,2.104415,2014-03-05
+37532,Sabadell,CL AVENIDA MATADEPERA. 297,Repsol,937 171 249,Cerrado Noches,41.572531,2.080566,2014-03-05
+37535,Sabadell,Calle de l&rsquo;Arc)a. 30,Meroil,937 16 20 24,L-D 06:00 a 22:30,41.555171,2.090446,2014-03-05
+37536,Sant boi de Llobregat,Calle Osca. 8 Pol&iacute;gono Industrial Las Salinas,Repsol,936 400 867,"INVIERNO (7:30 a 18:00 HORAS) VERANO (7:30 a 15:00 HORAS)
+ 
+
+ Sabados INVIERNO (7:30 a 14:00 HORAS) VERANO (7:30 a 13:00 HORAS)",41.338105,2.048947,2014-03-06
+37537,Sant Cougat del Valles,CL AV AUGUSTA. S.N.,Repsol,936 743 048,Cerrado Noches,41.482589,2.050408,2014-03-06
+37538,Salou,CR AP-1. P.K. 7.8,Repsol,977 388 314,Cerrado Noches,41.077629,1.149969,2014-03-06
+37539,Sitges,CR C-31. Km 164.4,Repsol,938 949 530,L-D: 24 Horas,41.238262,1.82742,2014-03-06
+37540,Sta. Cristina de Aro,C/ Pedro Girones 4,Skid,972837023,"L-V: 9-13 h. y 15 - 20 horas 
+ 
+
+ Sabados : 9 - 13 horas. 
+ 
+
+ Domingos y festivos cerrados.",41.811276,2.999641,2014-03-06
+37541,Tagamanent,CTRA. C-17. 36.23,Repsol,938 42 90 26,Cerrado Noches,41.737984,2.266782,2014-03-06
+37542,Tarragona,CR N-340. p.k. 1159.5,Repsol,977 550 929,L-D: 24 Horas,41.115298,1.222099,2014-03-06
+37543,Viladecans,CR C-31 Km 186.5.,Repsol,936 583 065,Cerrado Noches,41.275033,2.048015,2014-03-14
+37544,Villa-Seca,Vila Del Comu 8. Pol. Ind. Llba. Parcela A-22- a 1,Repsol,977 39 53 61,"L-V: 9.00-13.00 y 15.00-19.00 
+ 
+
+ S: 9.00-13.00 Festivos y domingos: Cerrado",41.114118,1.155397,2014-03-06
+37545,Vallirana,CL MAYOR. 610,Repsol,936 831 542,Cerrado Noches,41.382718,1.927166,2014-03-06
+37546,Vic,"CR N-152. 67.7 M. DCHO
+ 
+
+ Lat: 41&deg; 55&rsquo; 45&rsquo;&rsquo; N - Long: 2&deg; 13&rsquo; 46&rsquo;&rsquo;",Repsol,938 833 321,Cerrado Noches,41.927845,2.245363,2014-03-06
+37547,Alicante,Alcoy,CL AVDA.TIRANT LO BLANC.S/N,Repsol,,Cerrado Noches,38.708579,-0.472521
+37548,Valencia,Alfafar,CR N-332. 282,Repsol,961 251 054,Cerrado Noches,39.410567,-0.380832
+37549,Alicante,Alicante,Avenida de Elche 170,Repsol,965 114 048,L-V de 8h a 20h./ Sabado 8 a 14 h,38.302104,-0.528322
+37550,Alicante,Alicante,Avenida de la Universidad s/n,Repsol,965 17 99 44,L-D: 24 Horas,38.376149,-0.509214
+37551,Alicante,Alicante,"AV DE LA ANTIGUA PESETA 76
+ 
+
+ P.I. LAS ATALAYAS",Cepsa,965 102573 965 100958,L-D: 24 Horas,38.339561,-0.564456
+37552,Alicante,Benidorm,CR CV-70 P.K. 47,Repsol,,,38.559912,-0.13446
+37553,Alicante,Campello,CR N-332. 122.5,Repsol,965 633 776,Cerrado Noches,38.450287,-0.374363
+37669,Zaragoza,CL ISLA MURANO S.N.,Repsol,876 266 963,Cerrado noches,41.609908,-0.883287,2014-03-10
+37555,Castellon,Castellon,AVD. DE VALENCIA S/N. ESQUINA RONDA SUR,Repsol,,L-D: 24 Horas,39.971599,-0.054192
+37556,Alicante,Crevillente,CR CV-875 .P.K. 10.5,Repsol,965 404 866,L-D: 24 Horas,38.233393,-0.790976
+37557,Alicante,Elche,CR CV-8500. P.K. 3.6,Repsol,965 451 125,Cerrado Noches,38.25119,-0.698215
+37558,Alicante,Guardamar,CL MADRID. 20-24,Repsol,966 72 6367,L-D: 24 Horas (Solo verano),38.095765,-0.658955
+37559,Alicante,Jave (Alicnte),CR CV-739 . P.K. 1.5,Repsol,966 462 005,L-D: 24 Horas,38.782106,0.179748
+37560,Valencia,Paterna,CL CRTA.VIEJA DE BURJASOT-CENTRO COMERCIAL,Repsol,963 638 801,Cerrado Noches,39.531635,-0.442459
+37561,Valencia,Quart de Poblet,AT A-3. km 350.6,Repsol,961 524 353,Cerrado Noches y Festivos,39.473347,-0.432449
+37562,Valencia,Torrent,CL CARRETERA PICAA. 24,Repsol,961 554 800,L-D: 24 Horas,39.439342,-0.456471
+37563,Alicante,Torrevieja,CR CV-905 P.K. 10.1,Repsol,966 701 027,L-D 24 Horas (solo verano),37.987974,-0.687129
+37564,Valencia,Valencia,C/ Gremis 10. Polïno Ind. Vara de Quart,Taxco - Cooperativa Taxi,963 792 200,L-V: 07.30 a 14:00 / 15 a 18. Sabado de 8 a 14,39.457982,-0.40933
+37565,Valencia,Albalat dels Sorells,Ctra N-221 P.K 7.30 (Margen izquierdo),Repsol,961 480 039,L-S: 6:00 A 23:00 D: 7:00 A 23:00,39.530261,-0.313114
+37566,Valencia,Valencia,CL VALLE DE LA BALLESTERA. 44,Repsol,963 481 440,Cerrado Noches,39.478585,-0.401131
+37568,Castellon,Villareal,Avenida de Castellon 75,Cepsa,964 520 850,L-D: 24 Horas,39.947977,-0.089181
+37569,Badajoz,Badajoz,AVENIDA CIRCUNVALACION. S.N.,Repsol,924 220 013,Cerrado Noches,38.881863,-6.964314
+37570,Caceres,Valdesolar,Crta. N630 KM 564.5 Marguen derecho,Repsol,927 129 720,L-V: 8.00 a 13.00 y 15.00 a 20.00 S: 9.00 a 12.00 Festivos: 9.00-12.00,39.383771,-6.348576
+37571,Badajoz,Don Benito,AV MADRID. S.N&deg;.,Repsol,924 811 111,Cerrado Noches,38.965666,-5.855845
+37572,Caceres,Malpartida de Plasencia,CR A-66 . P.K. 494,Repsol,927 453 451,L-D: 24 Horas,39.882952,-6.276287
+37573,"A CoruF»Bergondo""","Ctra N-VI Km. 576
+ 
+
+ Coordenadas: 43.1888.-8.17525",Vitogas,,L-D: 07:00 a 23:00,43.281122,-8.23722,2014-03-06
+37574,Lugo,Cervo,CR N-642. Km 52.1,Repsol,982 557 663,Cerrado Noches,43.674763,-7.421363
+37575,"A CoruF»Ferrol""",CR C-646. 2,Repsol,981 371 402,Cerrado Noches,43.502682,-8.222176,2014-03-06
+37668,Estepa,"CR A-92, 105,2",Repsol,955 912 384,L_D: 24 Horas,37.302289,-4.880635,2014-03-10
+37576,A CoruF»La Coru&ntilde,"a""",AVDA GRAN CANARIA,Repsol,981 274 616,Cerrado Noches,43.373182,-8.427781
+37577,A CoruF»La Coru&ntilde,"a""",Carretera de Mesoiro 8-10,Repsol,981 292 632,L-D: 24 Horas,43.334995,-8.422419
+37578,A CoruF»La Coru&ntilde,"a""",Carretera AC-11  P.K. 2.30 Margen Derecho,Repsol,981 280 457,L-V 8.30 a 13.30 y 15.30 a 20.80,43.333997,-8.402473
+37579,A CoruF»La Coru&ntilde,"a""",AVDA.DEL EJERCITO. S/N (FRENTE 68),Repsol,981 131 757,Cerrado Noches,43.35426,-8.393106
+37580,Lugo,Lugo,C/ Camino de la Iglesia,Galp,982 22 08 45,L-V: 9:00 a 13:30 y 15:00 a 20:00ú de 08:30 a 13:30,43.029922,-7.544092
+37920,Badajoz,Monesterio,"Autovia Ruta de la Plata, km730 
+ 
+
+ Horario atendido: De 6:00 a 22:30
+ 
+
+ Horario atendido prepago: De 22:30 a 6:00.",CEPSA,924 517 048,L-D: 24 Horas,38.028024,-6.220523
+37583,Pontevedra,Poio,CR C-550. 77.1. 36994 Poio,Repsol,986 874 118,L-D: 24 Horas,42.436293,-8.673761
+37584,Ourense,Reza,CR OR-402 P.K. 1.8,Repsol,988 225 288,Cerrado noches,42.351242,-7.894869
+37585,Lugo,Ribadeo,"N-634, 123",Talleres Barja,982 120 719,L-V: 9:00 a 13:30 y 15:30 a 19:30 S: 09:30 a 13:30,43.541516,-7.070248
+37586,Ourense,Rios,CR A-52 PK 143,Repsol,629 610 324,L-D: 24 Horas,41.982367,-7.28587
+37587,"A CoruF»Sada""",CTRA N-VI KM 582(AL LADO DE ITV),Vitogas,981 648143,L-D 07:00 a 23:00,43.315136,-8.287995,2014-03-06
+37588,Ourense,San Ciprian de vi&ntilde;as,RUA PONTE SEVILLA. 18. 32005,Repsol,988 230 167,L-D: 06:00 a 23:00 horas,42.312933,-7.865247
+37589,"A CoruF»Santiago de Compostela""",PLAZA DE ESPAA S/N,Repsol,981 583 957,Cerrado Noches,42.89219,-8.53286,2014-03-06
+37877,Madrid,Madrid,"Calle Sanjenjo, 2",Repsol,913 781 405,L-D: 24 horas,40.483269,-3.705384
+37878,Alicante,Benitachell,"CV.740 KM. 6,8",PETROESPANA,96 575 11 69,L-D: 24 horas,38.73909,0.1521
+37677,Barcelona,AP-7 KM. 14 (DIR. SUR),Shell,935600431,L-D: 24 horas,41.527086,2.167577,2014-03-14
+37592,Pontevedra,Vigo,Explanada de Bouzas (2lorieta). Zona Franca - Puerto de Vigo,Repsol,986 240 405,L-V: 9:00 a 13:30 y 15:30 a 20:00ú de 10:00 a 13:30,42.228295,-8.753922
+37593,La Rioja,Logro&ntilde;o,Av. Madrid. 25,Repsol,941 210 844,S: 10:00 a 13:30,42.452994,-2.448353
+37594,La Rioja,Tricio,CR N-120. 23,Repsol,941 363 721,Cerrado noches,42.411544,-2.701178
+37595,Madrid,Alcala de Henares,CR M-300 (POLG. MATILLAS PARC-A1),Repsol,918 837 272,L-D: 24 Horas,40.475999,-3.393511
+37596,Madrid,Alcorc&oacute;n,Ebanistas / Avda. Legan&eacute;s. 8,Repsol,916 932 211,L-D: 24 Horas,40.342128,-3.805531
+37597,Madrid,Alcorc&oacute;n,Carretera Madrid - Badajoz. km 15,BP,916 442 093,L-D: 24 Horas,40.342922,-3.840715
+37598,Madrid,Alcorc&oacute;n,AVENIDA DEL PINAR S/N,Repsol,914 860 484,L-D: 24 Horas,40.346372,-3.805767
+37599,Madrid,Alcorc&oacute;n,CL CAMINO DE LEGANS 55,Repsol,916 460 255,L-D: 24 Horas,40.324209,-3.847555
+37600,Madrid,Arroyomolinos,CR A-5. 23.5,Repsol,916 478 002,L-D: 24 Horas,40.30226,-3.921997
+37601,Madrid,Colmenar Viejo,CTRA. M-607. KM. 28.200,Repsol,918 464 723,Cerrado noches,40.639562,-3.731019
+37602,Madrid,Fuenlabrada,CTRA. M-506 Km. 18,Repsol,91 642 09 16,L-D: Cerrado por la noche,40.266019,-3.742756
+37603,Madrid,Fuenlabrada,CRTA. M-506 SALIDA 15.6,Repsol,916 150 569,L-D: 24 Horas,40.277086,-3.765203
+37604,Madrid,Galapagar,CR M-505. pk 17.4,Repsol,918 586 544,Cerrado noches,40.57625,-4.015571
+37605,Madrid,Las Rozas,Carretera A-6 P.K. 20.300 D,Repsol,916 371 160,L-D: 24 Horas,40.507632,-3.876979
+37606,Madrid,Las Tablas,C/ del Abetal 8,Repsol,917 504 842,L-D: 24 Horas,40.502616,-3.662622
+37607,Madrid,Madrid,Terminal 2 del AEROP. BARAJAS,Repsol,91 333 61 56,L-D: 24 Horas,40.466817,-3.573349
+37608,Madrid,Madrid,Terminal 4 del AEROP. BARAJAS - Avda. de la Hispanidad. 44 (M-110. Antigua Crta. Alcobendas Barajas n&deg; 20),Repsol,913 337 270,L-D: 24 Horas,40.49706,-3.597858
+37609,Madrid,Madrid,Camino Cuartel. 9 Barajas,Galp,917 472 505,L-D: 24 Horas,40.467841,-3.578604
+37610,Madrid,Madrid,C/ M&eacute;ndez Alvaro s/n. cruce con M-30 km 11,Repsol,915 396 767,L-D: 24 Horas,40.391518,-3.676645
+37611,Madrid,Madrid,C/ Ermita del Santo 80. esquina V&iacute;a Carpetana,Repsol,915 651 257,L-D: 24 Horas,40.399608,-3.732993
+37612,Madrid,Madrid,Ctra. M-203. Km. 0.28 (Carretera de Vallecas a Vic&aacute;lvaro) Santa Eugenia,Repsol,913 324 494,L-D: 24 Horas,40.3802,-3.596565
+37613,Madrid,Madrid,AVDA. DE LA PESETA. 6,Repsol,915 083 994,DE 7:00 A 23:00 HORAS.,40.368455,-3.765716
+37614,Madrid,Madrid,Ctra. M-40. Pk 7.4 - Acceso Sur al Campo de las Naciones,Cepsa,91 742 46 51,L-D: 24 Horas,40.458307,-3.616718
+37615,Madrid,Madrid,Avda. Real de Arganda. 74,Repsol,913 852 424,L-D: 24 Horas,40.375836,-3.604161
+37616,Madrid,Madrid,C/ EJE 2-1 con C/ EJE 1-2 PARCELA. D-3. S.N. (MERCA MADRID),Repsol,91 786 38 01,L-D: 24 Horas,40.358171,-3.660492
+37617,Madrid,Madrid,Crta M602 PK 13 (Crta. Villaverde - Vallecas),Repsol,,L-D: 24 Horas,40.372411,-3.638903
+37618,Madrid,Madrid,Carretera A-6 KM 8. margen derecho,Repsol,913 574 642,L-D: 24 Horas,40.461079,-3.757766
+37619,Madrid,Madrid,C/ Alberto Aguilera. 9,Repsol,914 473 916,L-D: 24 Horas,40.429732,-3.708463
+37620,Madrid,Mostoles,Ctra. M-856 (enlace N-V y N-501),Repsol,,L-D: 24 Horas,40.334359,-3.88661
+37621,Madrid,Mostoles,Calle Torres Quevedo. 2.,Repsol,,L-D: 24 Horas,40.317068,-3.849036
+37622,Madrid,Mostoles,C/ Julio Cervera 16 (PG Tecnologico),Cepsa,91 616 16 56,L-V 08:00 a 20:00,40.341343,-3.876246
+37623,Madrid,Pinto,C/ Coto de Do&ntilde;ana. 1 (Poligono Industrial Arroyo Culebro),Repsol,916 919 736,L-D: 24 Horas,40.264938,-3.69274
+37624,Madrid,Pinto,CR A-4 P.K. 20.200 Margen Derecho,Repsol,916 914 806,L-D: 24 Horas,40.246303,-3.690251
+37625,Madrid,Rivas Vaciamadrid,CR N-3 .P.K. 14.40 M. Dcha.,Repsol,913 318 059,DE 7:00 A 23:00 HORAS.,40.357844,-3.558587
+37626,Madrid,San Agustin de Guadalix,CR N-1 .P.K. 34,Repsol,918 489 814,L-D: 24 Horas,40.673046,-3.610598
+37627,Madrid,San Fernando de Henares,CTRA. N-II. KM. 16.300,Repsol,916 695 135,L-D: 24 Horas,40.449682,-3.523598
+37628,Madrid,San Sebastian de los Reyes,AVDA. EINSTEIN. 5,Repsol,916 521 731,L-D: Cerrado por la noche,40.544257,-3.610105
+37629,Madrid,San Sebastian de los Reyes,CTRA. N-I. KM. 18.600,Repsol,916 534 285,L-D: 24 Horas,40.546295,-3.606275
+37630,Madrid,Tres Cantos,CL AVDA DE LA INDUSTRIA. 33,Repsol,918 033 648,Cerrado Noches,40.614865,-3.70437
+37631,Madrid,Villaviciosa de Odon,M-50. Km 66.5 (Margen Izquierdo),Repsol,916 69 8000,L-D: 24 Horas,40.3764,-3.874066
+37632,Madrid,Villaviciosa de Odon,M-50. Km 66.5 (Margen Derecho),Repsol,916 69 8000,L-D: 24 Horas,40.37613,-3.872436
+37633,Navarra,Cortes,C/ Carmen Bellido. 64,Skid,948 800 132,"L-V: 9:00 a 13:00 y de 15:00 a 20:00
+ 
+
+ Sabados: 09:00 a 13:00",41.928408,-1.422334
+37634,Navarra,Estella,PG MERKATONDOA - UPP3 PARC.4. S.N.,Repsol,948 555 287,Cerrado Noches,42.653404,-2.026788
+37635,Navarra,Noain,CTRA. N-121. KM. 5,Repsol,,L-D: Cerrado por la noche,42.775854,-1.635274
+37636,Navarra,Pamplona,PG AGUSTINOS CL A PARCELA 3B,Cepsa,948-302422,L-D: 24 Horas,42.829464,-1.686426
+37637,Navarra,Tudela,AUTOPISTA AP-68. Km 223,Repsol,948 825 853,L-D: 24 Horas,42.012555,-1.601239
+37638,Navarra,Urdax,CR N-121 B P.K. 79.500 (Margen Derecho),Repsol,948 599 497,"L-D: 8:00 a 20:00 horas todo el a~»43.290038""",-1.505519,2014-03-07
+37667,Sevilla,"CR N-4, 544",Repsol,954 617 639,L-D: 24 Horas,37.350642,-5.976965,2014-03-10
+37639,Navarra,Villaba,Carretera de Pamplona a Ir&uacute;n KM 4,Repsol,948 332 599,L-D: 24 Horas,42.834983,-1.609621
+37640,Guipuzcoa,San Sebastian,Paseo del Doctor Beguiristain. s/n - Ctra. GI-3401. km 1.2. S 36,Repsol,943 308 038,L-D: 06:00 a 22:00,43.285902,-1.984714
+37641,Bizkaia,Abanto,AUTOPISTA A-8. Km 131,Repsol,946 361 501,L-D: 24 Horas,43.328315,-3.068545
+37642,Bizkaia,Amorebieta,CR A-8 BILBAO BEHOBIA P.K. 99.7,Repsol,946 308 739,L-D: 24 Horas,43.231564,-2.756293
+37643,Bizkaia,Arrigorriaga,AU. AP-68. 6 MD,Repsol,946 71 03 98,L-D: 24 Horas,43.190249,-2.897194
+37644,Bizkaia,Barakaldo,C/ DE LA RIBERA . 11,Repsol,,L-D: Cerrado por la noche,43.293608,-3.006252
+37645,Bizkaia,Derio,CR BI-631. 10,Repsol,944 540 360,Cerrado Noches,43.318481,-2.876705
+37646,Bizkaia,Enekuri-Erandio,C. Bilbao-Plentzia Km 5.5,Repsol,944 75 52 02,L-D: 24 Horas,43.290639,-2.960392
+37647,Guipuzcoa,Eskoriatza,AP-1 P.K. 24.950,Repsol,,L-D: 24 Horas,43.01665,-2.535664
+37648,Guipuzcoa,Hernani,AP-8 P.K. 22.000 Margen Izquierdo,Repsol,,L-V:8.00-21.00 S-D:9.00-14.00,43.278369,-1.978614
+37649,Alava,Lopidana,CTRA. N-I. KM 350.5,Repsol,945 282 838,L-D: 24 Horas,42.878134,-2.71496
+37650,Guipuzcoa,Mondragon,CR AP-1 P.K. 129.00 D,Repsol,,L-D: 24 Horas,43.063323,-2.476646
+37651,Guipuzcoa,Oirtzun,GI 636 P.K. 5.000 M.I.,Repsol,943 490 141,L-D: 24 Horas,43.312171,-1.879057
+37666,Baleares,Ibiza,"CR PM-801, 1,2",Repsol,971 393 201,L-D: 24 horas,38.905837,1.417734
+37653,Alava,Vitoria,C/ Portal de Elorriaga. 17 (junto a la Avenida de Bruselas),Repsol,945 255 479,L-D: 06:00 a 22:00,42.849761,-2.648116
+37654,Murcia,Molinos Marfagones,"ES Buenos Aires
+ 
+
+ Crta. Cartagena - Almeria PK - 7.5",Independiente,968 168 686,L-D: 05.30 a 23.30,37.634617,-1.058659
+37655,Murcia,Cartagena,RONDA NORTE - C/ NGEL BRUNA,Repsol,968 138 552,CERRADO NOCHES,37.616543,-0.984141
+37656,Murcia,Cartagena,C/ Paseo Alfonso XIII. s/n,Repsol,968 122 115,,37.607483,-0.971648
+37657,Murcia,Lorca,"Avenida F&eacute;lix Luis Pareja Mu&ntilde;oz 
+ 
+
+ Poligono Industrial Saprelorca",Skid,968 47 88 21 o 679 167 489,"9 - 13 , 16 - 18.30",37.612124,-1.759254
+37658,Murcia,Murcia,C/ del Naranjo 1-3. Orilla de la V&iacute;a,Repsol,968 252 333,L-D: 06.00 a 23.00,37.973872,-1.116412
+37672,Madrid,Alcal&aacute; de Henares,"A2, KM 29 (Direcci&oacute;n Barcelona)",Galp,,,40.493197,-3.386971
+37673,Madrid,Alcal&aacute; de Henares,"A2, KM 29 (Direcci&oacute;n Madrid)",Galp,,,40.493837,-3.387583
+37856,Murcia,Balsapintada,"CR A-30, p.k. 423",REPSOL,968 160 224,ABIERTO 24 HORAS,37.768611,-1.068611
+37675,Valencia,Xativa,"CL CTRA. LLOSA DE RANES, S.N. 6",Repsol,962 281 932,Cerrado noches,38.994456,-0.524324
+37676,Valencia,Paterna,"CR C-234, P.K. 9,7",Repsol,961 322 134,Cerrado noches,39.541514,-0.462824
+37679,Ametlla del Valles,"CR C-17, 26,65",Repsol,938 432 853,L-D: 24 Horas,41.664837,2.269357,2014-03-25
+37680,Toledo,Sese&ntilde;a,"CR A-4, pk 36,5 M. DERECHO",Repsol,918 936 275,Cerrado Noches,40.105009,-3.646198
+37681,Bizkaia,Amorebieta,CTRA A-8 (Bilbao-Behobia) PK 100,Repsol,946 308 739,L-D 24 Horas,43.230321,-2.753945
+37682,Sabi&ntilde;&aacute;nigo,"C/ AVENIDA HUESCA, 22",Repsol,974 480 365,L-D 24 Horas,42.514887,-0.361349,2014-04-08
+37683,Baleares,Costa de la Calma,"CR C-719 PALMA-PTO.ANDRATX, 19",Repsol,971 692 650,Cerrado Noches,39.526698,2.486632
+37684,Guipuzcoa,Beasain,"CR GI-632 BEASAIN-DURANGO, 1,7",Repsol,943 582 048,Horario,43.048451,-2.227684
+37685,Vega de Valdetronco,"CR A-6 P.K. 193,8 IZQ",Repsol,983 486 154,Cerrado Noches,41.576231,-5.099428,2015-05-22
+37686,Navarra,Tudela,"AVENIDA ZARAGOZA, S.N.",Repsol,948 848 600,L-D: 24 horas,42.052487,-1.596925
+37687,Nijar,"CR N-340, PK 487",Repsol,950 611 306,L-D: 24 horas,36.955975,-2.127411,2014-04-23
+37909,Pontevedra,Vilagarcia de Arousa,"Avenida de Pontevedra, 98",Autocaravanas Arousa,886 908 097,L-D: 09:30 a 13:30 y 16:30 a 20:30 horas | S: 09:30 a 13:30 horas,42.584468,-8.743145
+37689,Almeria,CL PROL. FEDERICO GARCIA LORCA (RAMB),Repsol,950 252 929,L-D: 24 Horas,36.852711,-2.468557,2014-04-23
+37690,Alicante,Torrevieja,CR CV-95 P.K. 2 - URB.LOS BALCONES,Repsol,966 799 393,L-D: 24 Horas,37.962234,-0.718458
+37691,Caceres,Navalmoral de la Mata,CR A-5 P.K. 182 M. IZQ.,Repsol,927 533 320,L-D 24 Horas,39.873632,-5.549258
+37692,Alicante,Alicante,"CR MADRID ESQ.RIO JUCAR, 19",Repsol,965 115 786,Cerrado Noches,38.344719,-0.523077
+37693,Sallent,"CR C-16, 60,40",Repsol,938 370 318,L-D 24 Horas,41.800993,1.897966,2014-05-12
+37694,Madrid,Getafe,"AVDA. DE LAS TRECE ROSAS, 6",Cepsa,914914193,L-D 24 horas,40.323211,-3.732735
+37695,Vilafranca del Penedes,"C/ La Rapita, cant. La Munia, s/n",Petromiralles,938173040,L-D 24 horas,41.339137,1.687578,2014-05-21
+37696,Igualada,C/ del Rec esquina c/ Dr Mercarder,Petromiralles,938 044 710,L-D 24 Horas,41.575826,1.613536,2014-05-21
+37697,Guipuzcoa,San Sebasti&aacute;n,"CL AVENIDA DE TOLOSA, 188",Repsol,943 311 915,L-D 24 Horas,43.300029,-2.001969
+37698,Valencia,Valencia,"C/ Baleares, 20",Repsol,963 370 024,L-D 24 Horas,39.462754,-0.354527
+37699,"A CoruF»San Pedro- El Seijal""","CR N-6, 589",Repsol,981 638 151,Cerrado Noches,43.323944,-8.362104,2014-06-06
+37700,Madrid,Alcobendas,Avda. de Espa&ntilde;a S.N.,Repsol,916 538 446,L-D 24 Horas,40.546303,-3.634632
+37701,Chucena,"CTRA. A-49, pk 37",Repsol,959 506 264,L-D 24 Horas,37.348036,-6.423656,2014-06-06
+37702,Asturias,Viella,"PG. GRANDA-COLLATO, P. 1E (ROTONDA CTRAL LECHERA ASTURIANA)",Repsol,985 986 154,L-D 24 Horas,43.390232,-5.781282
+37703,Mairena de Aljarafe,C/ Exposici&oacute;n (Poligono Pisa),Repsol,954 184 973,Cerrado Noches,37.352249,-6.056161,2014-06-18
+37704,Valencia,Chiva,"Ctra A-3, km 337",Repsol,961 982 014,L-D 24 Horas,39.475252,-0.589068
+37705,Cunit,"Ctra. C-246, km 53.7",Repsol,977 161 275,Cerrado Noches,41.197321,1.624419,2014-06-18
+37718,Madrid,Ajalvir,"CR M-114, P.K. 0,700",Repsol,918 844 755,Cerrado Noches,40.528121,-3.481189
+37707,Las Palmas,Maspalomas,"CT.CTRA.GRAL.DEL SUR KM-53.3, S/N PLAYA DEL INGLES",Disa,682 262 579,L-D 24 Horas,27.765108,-15.568939
+37708,Ciudad Real,Manzanares,"CR-141, p.k. 3,7",Repsol,926 612 350,Cerrado noches,38.987351,-3.38008
+37709,Santa Cruz De Tenerife,la Laguna,"CR.GENERAL TF-411, 1",Disa,689751757,L-D: 24 horas,28.459505,-16.293179
+37710,Alicante,Santa Pola,"CR N-332, 93,5",Repsol,965 415 439,24 horas solo verano,38.235315,-0.550434
+37711,Granada,CR ANTIGUA DE MLAGA Km 142,Repsol,958 294 000,Cerrado Noches,37.190715,-3.636433,2014-07-25
+37712,Ferreruela de Huerva,"CR A-23, pk 202 ,MD",Repsol,681 398 720,L-D: 24 Horas,41.050262,-1.276867,2014-07-25
+37713,Valladolid,"AV. DE SALAMANCA, 68-A",Repsol,983 355 583,L-D: 24 horas,41.637978,-4.7466,2014-07-25
+37714,Vera,"CR VERA-GARRUCHA (AL-3327) Km 3,8",Repsol,950 132 590,Cerrado noches,37.221991,-1.835428,2014-07-30
+37715,Calatayud,"CR A-2, P.K. 239,75 M.I.",Repsol,976 883 495,L-D 24 horas,41.364393,-1.587206,2014-07-30
+37716,Bizkaia,Sestao,"CR BI-3745, P.K. 9,2 M IZD",Repsol,944 377 395,L-D 24 horas,43.298541,-3.003047
+37717,Valencia,Oliva,"CR N-332, P.K. 209,5",Repsol,962 855 618,Cerrado noches,38.894473,-0.072981
+37719,Torre del Mar,"AV DE ANDALUCIA, 14",Repsol,952 542 204,L-D 24 Horas,36.747602,-4.082871,2014-09-04
+37720,Valencia,Alboraya,"CL VIA DEL FERROCARRIL, 8-10, POL. IND. N&deg;3",Repsol,961 861 627,Cerrado Noches,39.500158,-0.346135
+37721,Albacete,Almansa,"CL AVDA. DE AYORA, S.N.",Repsol,967 342 398,Cerrado Noches,38.874881,-1.100374
+37722,Alava,Altube,"AU AP-68, 36",Repsol,945 462 694,Cerrado Noches,42.966417,-2.870105
+37723,Ciudad Real,Alc&aacute;zar de San Juan,"CR N-420, 284,7",Repsol,926 550 555,Cerrado Noches,39.387275,-3.231993
+37724,Alcal&aacute; de Guada&iacute;ra,"CTRA. A-360 KM 4,4",Agla,954 89 43 19,L-S: 06:00 a 22:00 D: 07:00 a 14:30,37.295829,-5.789597,2014-09-26
+37725,Montornes del valles,"Avda. del Riu Mogent, 3",Repsol,935 723 420,L-D: 24 Horas,41.548544,2.265424,2014-09-26
+37726,Jerez de la Frontera,"Avda. Presedente Adolfo Suarez, 3-4",Repsol,956 307 493,L-D: 14 horas,36.706748,-6.124965,2014-09-26
+37727,Ciudad Real,Puertollano,"CR N-420, 160",Repsol,L-D: 24 Horas,926 414 332,38.697841,-4.105846
+37728,Zamora,C/ Villalpando esquina C/ Cuesta del Balon,Repsol,980 670 386,Cerrado Noches,41.511188,-5.74731,2014-10-17
+37729,Cantabria,Pesu&eacute;s,"Crta. N-634, Km. 279",Avia,942 717 044,L-D: 24 horas,43.37528,-4.503261
+37730,Ourense,Pereiro de Aguiar,"Parque Empresarial de Pereiro de Aguiar, parcela S-2",Shell,988256336,L-D: 24 horas,42.318451,-7.80524
+37731,Barcelona,"Avenida Sarr&iacute;a, 126",Repsol,932 031 488,L-D: 24 Horas,41.392345,2.132376,2014-10-17
+37732,Madrid,Galapagar,"CR M-510, 1,8",Repsol,918 492 558,Cerrado Noches,40.625529,-4.027866
+37733,Sevilla,"CR N-4, p.k. 548",Repsol,954 680 169,L-D 24 Horas,37.338346,-5.971146,2014-11-07
+37734,Estepa,"CR A-92, p.k. 110,1",Repsol,955 912 897,Cerrado Noches,37.302341,-4.880538,2014-11-07
+37735,Miranda de Ebro,"CR N-1, p.k.318",Repsol,947 336 022,Cerrado Noches,42.688374,-2.953017,2014-11-07
+37736,Madrid,Madrid,"CR M-607, p.k. 10,5",Repsol,917 343 038,Cerrado Noches,40.499434,-3.698049
+37737,Las Palmas,Las Palmas de Gran Canaria,"C/ Eufemiano Jurado, 4",Disa,928420282,L-D 24 Horas,28.096189,-15.415461
+37738,Toledo,Cazalegas,Ctra. A-5. p.k 103.2,Repsol,925 872 532,Cerrado noches,39.993495,-4.691766
+37739,Marbella,"N-340 (A-7), p.k 192.5",Repsol,952 831 256,L-D 24 Horas,36.49363,-4.764465,2014-12-15
+37740,Benavente,"Ctra. N-6 p,k 260,5 izq",Repsol,980 630 556,L-D 24 Horas,41.992288,-5.647191,2014-12-15
+37741,Pontevedra,Lalin,"Avenida de Buenos Aires , S/N",Repsol,986 787 164,Cerrado Noches,42.654955,-8.11192
+37742,Asturias,Gijon,"Ctra AS-248 Gijon-Pola de Siero, 20",Repsol,,L-D 24 Horas,43.525417,-5.655838
+37743,Navarra,Tafalla,Avenida de Pamplona S/N,Repsol,948 702 918,Cerrado Noches,42.534149,-1.670824
+37744,Madrid,Mostoles,"Ctra A-5, p,k 21",Repsol,916 643 503,L-D 24 Horas,40.316675,-3.897696
+37745,Figueres,"Ctra. C-260 p,k 27,5",Repsol,972 671 049,L-D 24 Horas,42.266655,2.981626,2014-12-15
+37746,Caceres,C&aacute;ceres,"CR N-521, 45",Repsol,927 210 944,Cerrado Noches,39.481885,-6.362825
+37747,"A CoruF»Ameixeira""","Autov&iacute;a AP-9, p.k. 39,5, M.I.",Repsol,981 682 604,Cerrado Noches,43.099338,-8.349484,2015-02-05
+37748,Alicante,Orihuela,"CR N-340, p.k. 688,6",Repsol,965 304 081,Cerrado Noches,38.106179,-0.931867
+37749,Asturias,Gij&oacute;n,"Avda. Constituci&oacute;n, 220",Repsol,985 152 865,L-D 24 Horas,43.522259,-5.683549
+37750,Pontevedra,Vigo,"Avda. de Madrid, 66",Repsol,986 418 452,Cerrado Noches,42.224497,-8.711818
+37751,Sant Cugat del Valles,"Autopista E-9, p.k. 6,50",Repsol,935 879 405,L-D 24 Horas,41.433356,2.078238,2015-02-05
+37752,Torroella del Mongri,"Ctra. Torroella a L&rsquo;estartit, Km 2",Repsol,972 761 312,Cerrado Noches,42.042536,3.140667,2015-02-05
+37756,Santa Cruz De Tenerife,Candelaria,"Ctra Las Bichas TF-612, s/n",Disa,608 290 268,,28.35686,-16.371963
+37757,Santa Cruz De Tenerife,San Miguel,"Ctra General a las Galletas, S/N Autov&iacute;a del sur Galletas",Disa,689 751 756,,28.050527,-16.612619
+37758,Leon,"Avda. Jose Mar&iacute;a Suarez, S/N",Repsol,987 228 380,Cerrado Noches,42.602236,-5.557688,2015-03-10
+37759,Badajoz,Mer&iacute;da,"Ctra A5, Km 341",Repsol,924 387 030,L-D 24 Horas,38.937494,-6.362767
+37760,Cuenca,Cuenca,"Ctra N-400 PK 176,9 (16002 Cuenca)",Repsol,969 231 355,Cerrado Noches,40.073697,-2.170381
+37761,Cuenca,T&eacute;bar,A-3 PK 186 M. Dcho (16213 T&eacute;bar),Repsol,969 381 470,L-D 24 Horas,39.48478,-2.157948
+37762,Pontevedra,La Ca&ntilde;iza,"Ctra, A-52 pk 272 (36880 La Ca&ntilde;iza)",Repsol,986 652 390,L-D 24 Horas,42.207092,-8.268018
+37763,"A CoruF»Arzua""","Ctra N-547 pk 63,8",Repsol,981 500 057,Cerrado Noches,42.930117,-8.144936,2015-04-30
+37764,Cuenca,Belinch&oacute;n,"A-3 pk 71,9 (16470 Belinch&oacute;n)",Repsol,969 323 032,L-D 24 Horas,40.064526,-3.081578
+37765,Cuenca,Honrubia,A-3 pk 166 Margen. Dcho,Repsol,969 141 068,L-D 24 Horas,40.064526,-3.081578
+37766,Madrid,Algete,"Ctra M 106 pk 3,7 (28110 Algete)",Repsol,916 282 976,Cerrado Noches,40.587739,-3.545896
+37767,Islas Canarias,Teguise,Avda. de las Palmeras,Disa,676051614,,28.986685,-13.516102
+37768,Alava,Venta del Patio,Ctra. N-1 km 364.4,Repsol,945 307 024,Cerrado Noches,42.878715,-2.51857
+37769,La Luisiana,"Ctra, N-4 p.k. 464",Repsol,955 907 807,Cerrado Noches,37.52407,-5.194714,2015-05-22
+37770,Baleares,Palma de Mallorca,"Calle Camino son Rapinya, esq Cami dels Reis",Repsol,971 798 998,L-D 24 Horas,39.585093,2.618488
+37771,Jerez de la Frontera,Ctra. A-381 PK 20,Repsol,956 237 200,L-D 24 Horas,36.569003,-6.023394,2015-06-19
+37772,Granada,C/ de la Sultana,Repsol,958 123 608,L-D 24 horas,37.150646,-3.592494,2015-06-25
+37773,Espinosa de los Caballeros,Ctra. A-6 km 118.5,Repsol,920 300 004,Cerrado noches,41.010127,-4.666694,2015-06-19
+37774,Santa Mar&iacute;a de Palautordera,Ctra. C-35 Km 51,Repsol,938 489 676,Cerrado Noches,41.65781,2.450624,2015-06-19
+37775,La Rioja,Logro&ntilde;o,"Ctra, LO-20 KM 13",Repsol,941 205 862,Cerrado Noches,42.454236,-2.503491
+37776,Salamanca,"C/ Antonio Lopez Borrascosa, 2-14",Repsol,923 080 127,L-D 24 Horas,40.96258,-5.698282,2015-07-06
+37777,Guadalajara,Guadalajara,"Calle Julian Besteiro, 25",Repsol,949 200 427,L-D 24 Horas,40.633485,-3.18437
+37778,Madrid,Aravaca,"Ctra A-6, pk 12 (sentido decreciente)",Repsol,913 077 932,L-D 24 Horas,40.465707,-3.805209
+37779,A CoruF»Puebla de Carami&ntilde,"al""",Ctra VRG 1.1 Padr&oacute;n-Ribeira,Repsol,981 877 731,L-D 24 Horas,42.607843,-8.964031
+37780,Caldas de Luna,Ctra AP-66 p.k 89,Repsol,987 597 795,L-D 24 Horas,42.92879,-5.855956,2015-07-07
+37781,Bassella,"CR C-14, p.k. 134",Repsol,973 462 731,Cerrado Noches,42.005916,1.294118,2015-07-20
+37782,Palamos,Ctra C-31 pk 326.9,Repsol,,Cerrado Noches,41.87219,3.138206,2015-08-06
+37783,Baleares,Llucmajor,Ctra. PM-602 pk 8.2,Repsol,971 440 447,Cerrado noches,39.484144,2.832421
+37784,Alicante,Villena,Ctra. A-31 pk 53 M. IZQ,Repsol,965 817 412,L-D 24 Horas,38.618056,-0.848984
+37785,Madrid,Madrid,"C/ Nuestra se&ntilde;ora de Valgrande, 175",Repsol,917 344 509,L-D 24 Horas,40.503496,-3.685613
+37786,Fenolleres,Ctra. A-2 pk 512,Repsol,973 530 661,L-D 24 Horas,41.661855,1.198188,2015-08-06
+37787,Navarra,Zuasti,Ctra A-15 pk 98.5,Repsol,948 302 963,L-D 24 Horas,42.86157,-1.744232
+37788,Lugo,Pedreda,Ctra N-640 pk 87.4,Repsol,982 303 332,L-D 24 Horas,43.043885,-7.517217
+37789,Marbella,"C/ Avenida Arias de Velasco, 2",Repsol,952 772 090,L-D 24 Horas,36.515788,-4.880169,2015-08-06
+37790,Tarrasa,Ctra N-150 pk 18,Repsol,937 315 368,Cerrado Noches,41.558695,2.024305,2015-08-06
+37791,San Roque,Pol. Ind. Guadarranque parcela 9 A-D,Codes,956 786 561,L-D 24 horas,36.204077,-5.412195,2015-09-03
+37792,La Rioja,Hormilla,Pol. Ind. de Hormilla,Valcarce,941 41 77 65,L-D 24 Horas,42.430993,-2.762337
+37793,Caceres,Plasencia,Avda. Mart&iacute;n Palomino S/N,Repsol,927 411 558,Cerrado Noches,40.016256,-6.103261
+37794,Alca&ntilde;iz,"Ctra. N-232 PK 134,8",Repsol,978 870 050,Cerrado Noches,41.05241,-0.152765,2015-09-16
+37795,Guipuzcoa,Tolosa,Ctra N-1 p.k. 432.5,Repsol,943 654 753,L-D 24 Horas,43.116724,-2.092652
+37796,Madrid,Madrid,Avda Alfonso XIII esq C/ Costa Rica,Repsol,913 453 800,L-D 24 Horas,40.458937,-3.667839
+37797,Madrid,El Molar,Autovia A1 Km 41,Repsol,918 410 168,Cerrado Noches,40.717274,-3.578011
+37798,Murcia,Murcia,"Avda. Primero de mayo, S/N",Repsol,968 991 075,L-D 24 Horas,37.987186,-1.115497
+37799,Carmona,"Autov&iacute;a A-4, pk 497",Agla,955 953 340,L-D: 24 horas,37.483641,-5.541279,2015-10-19
+37800,Sant Boi de Llobregat,"C/ Riera Fenollar, 38",Repsol,936 529 830,L-D 24 Horas,41.326381,2.03905,2015-12-10
+37801,Garrigas,Autovia AP-7 pk 35,Repsol,972 650 053,L-D 24 Horas,42.174668,2.930896,2015-12-10
+37802,Puerto de Santa Mar&iacute;a,Ctra P-603 pk 1 MD,Repsol,956 851 016,L-D 24 Horas,36.599239,-6.240263,2015-12-10
+37803,Madrid,Valdemorillo,"C/ San Juan, 38",Repsol,91 897 70 58,Cerrado Noches,40.499699,-4.059188
+37804,Madrid,Madrid,"Avenida de la aviaci&oacute;n, 32",Repsol,91 710 606,L-D 24 Horas,40.373989,-3.771572
+37805,Vilanova I La Geltru,"Ronda de Europa, 37",Repsol,938 143 407,Cerrado noches,41.225617,1.739864,2015-12-31
+37806,Chiclana de la Frontera,"Avenida de los Reyes Catolicos, 29",Repsol,954 124 565,Cerrado Noches,36.415337,-6.143196,2015-12-31
+37807,Alcal&aacute; de Guadaira,Ctra. A-376 KM 8.7,Repsol,954 124 565,Cerrado Noches,37.308798,-5.889411,2015-12-31
+37826,Lucena,Ctra. A-45 pk 51 M.I.,Repsol,95 772 46 03,L-D 24 Horas,37.439732,-4.550624,2016-10-21
+37825,Baleares,Palma de Mallorca,"Cami Salard, 95",Repsol,971 256 534,Cerrado Noches,39.575861,2.685195
+37824,Navarra,Artica,"Ctra, de Artica, 21",Repsol,948 128 854,Cerrado noches,42.835468,-1.652881
+37823,Linares,Avda. de EspaF 3,Repsol,953 692 315,Cerrado Noches,38.090226,-3.626149,2016-10-21
+37822,Alicante,San Vicente del Raspeig,Ctra. A-214 km 1.5,Repsol,965 660 862,L-V: 24 horas,38.390808,-0.505526
+37821,Madrid,Alcal$e Henares,"Avda. Juan Carlos I, S/N",Repsol,91 265 73 93,Cerrado Noches,40.480525,-3.400521
+37820,Valencia,Valencia,"C/ Miraculosa, 15
+ 
+
+ 46009 Valencia",Galp,961 36 50 00,06:00 a 24:00,39.484785,-0.373434
+37819,Pontevedra,Salcedo,"CTRA. N-550, Km 126.4 (C.P. 36143 SALCEDO, PONTEVEDRA)",Repsol,986 851 493,Cerrado Noches,42.398363,-8.636257
+37818,Murcia,CARTAGENA,"CTRA. MAZARRON Km. 2,9 (N-332) (C.P. 30393 CARTAGENA, MURCIA)",RESPSOL,968 511 037,CERRADO NOCHES,37.61975,-1.012889
+37817,Aguadulce,"Avda. Carlos III, 82",Cepsa,950340849,L-D 24 Horas,36.809334,-2.593189,2016-07-20
+37816,Amposta,"Ctra TV-3405, p.k. 0.5",Repsol,977 704 140,Cerrado Noches,40.709123,0.587847,2016-07-12
+37815,Madrid,Madrid,"C/ Niceto Alcalamora, 20",Galp,91 718 81 61,L-D 24 horas,40.494197,-3.648805
+37813,Baleares,Santa Eulalia del Rio (Ibiza),"C/ de Sant Jaume, 188",Repsol,971 319 161,Cerrado noches,38.988115,1.538824
+37812,Castellon,Pobla Tornesa,"Ctra. CV-10, Salida 33",Repsol,964 338 177,L-D 24 Horas,40.105447,0.007735
+37814,Madrid,Madrid,"Glorieta de Yucatan, S/N",Cepsa,628 423 650,L-D 24 Horas,40.451233,-3.626867
+37809,Alicante,Santa Pola,"Carretera Elche - Santa Pola, 5",Cepsa,966 69 60 11,24 horas,38.197355,-0.562463
+37811,Madrid,Madrid,"Carretera Villaverde a Vallecas KM. 2,4 (m.Izquierdo)",Cepsa,.,L-D 24 Horas,40.369778,-3.645131
+37827,Pontevedra,Vilaboa,Autovia A-9 Pontevedra Sur-Vigo pk 13,Repsol,98 667 27 19,Cerrado noches,42.317932,-8.662738
+37828,Macanet de la Selva,Autopista Ap-7 pk 86,Repsol,972 858 211,L-D 24 Horas,41.772184,2.739077,2016-10-21
+37829,Ciudad Real,Malagon,"C/ Madrid, 16
+ 
+
+ Pol. Ind. Las ViGâ;Cepsa""",,L-V 24 Horas,39.158126,-3.846239,2016-10-21
+37830,Toledo,Toledo,"C/ rio Jarama, 61",Punto Azul,,Cerrado Noches,39.868797,-3.960307
+37831,Murcia,Cartagena,"Autov`de la Manga. Ctra RM-12 pk 0,222",Independiente,968136840,L-D 24 horas,37.654759,-0.891349
+37832,Sant Sadurni de D anoia,"C/ Sant Quintin, 28",Repsol,938 910 610,L-D 24 Horas,41.428875,1.779045,2018-04-23
+37833,Baleares,Palma de Mallorca,C/ Gremi Sucrers I Candelers 5,Repsol,971 758 898,L-d 24 Horas,39.610186,2.661229
+37834,Baleares,Palma de Mallorca,"C/ Cami Sos Fangos, 151",Repsol,971 126 903,L-D 24 Horas,39.535453,2.734969
+37835,Murcia,Fuente Alamo,Ctra. Las Palas 2,Independiente,968 59 73 06,L-D 06:00 a 24:00,37.719302,-1.170572
+37836,Valencia,Sueca,Avda. del Mar 5,BP,96 170 24 46,L-D 24 Horas,39.209197,-0.309525
+37837,Murcia,Cartagena,"Avda. Sanchez Meca, S/N",Repsol,968 507 352,L-D 24 horas,37.596243,-0.966136
+37838,Madrid,Madrid,"Avda. Princesa Juana de Austria, S/N",Repsol,914 694 247,L-D 24 Horas,40.378647,-3.718615
+37839,Puig- Reig,C-1411z km 59.4,Independiente,669 163 205,L-D 24 horas,41.963282,1.880162,2018-04-23
+37840,Valls,"Ctra. T-200, 2.5",Repsol,977 606 635,Cerrado Noches,41.29836,1.258549,2018-04-23
+37841,Barcelona,"C/ santander, 100",Repsol,932 782 380,L-D 24 Horas,41.43287,2.206691,2018-04-23
+37842,Ripollet,CRTA. B-141 Km 0 CR,Repsol,935 806 092,L-D 24 horas,41.500301,2.151051,2018-04-23
+37843,Quart,"Ctra Comarcal 250, km7",Repsol,972 469 087,Cerrado Noches,41.933609,2.843764,2018-04-23
+37844,Tarragona,Ctra N340 km 1173,Repsol,977 651 551,Cerrado Noches,41.139695,1.365603,2018-04-23
+37845,Valencia,Lliria,"PLA DE RASCANYA, 12",Independiente,647347727,L-D 07:00 a 21:00,39.635394,-0.587091
+37846,Valencia,Valencia,C/ Maestro Rodrigo,Repsol,963 498 590,L-D 24 Horas,39.487827,-0.404135
+37847,Barcelona,"Plaza Guayaquil, 25-27",Repsol,933 117 145,Cerrado Noches,41.442982,2.205977,2018-04-23
+37848,Pontevedra,Sanxenxo,"LGAR FONTOIRA VINQUIO, 42A",Repsol,626 065 456,Cerrado noches,42.415392,-8.813005
+37849,Manet de la Selva,"C-35 km. 82,5",Galp,972 858 021,L-D 24 Horas,41.781112,2.740901,2018-04-23
+37850,Murcia,Librilla,"AUTOVIA A-7 PK 591,5",Repsol,968 659 272,L-D 24 Horas,37.892861,-1.339783
+37851,Murcia,La Palma,Calle Marcona 21,Repsol,968 165 909,"Cerrado noches todo el a~»37.683441""",-0.954966,2018-05-13
+37852,Granollers,Carrer Enric Prat de la Riba 100,Meroil,938492582,c,41.601578,2.277948,2018-05-20
+37853,"Bellvâ;Avinguda de Bell-lloc. Ctra. LV-3311, Km. 5,2""",E.S. BELLVIS,973 71 62 56,a,41.670299,0.81449,2018-05-24,
+37854,Ciudad Real,"ValdepeGâ;Avda.del vino 10""",Libre,,926313348,38.78086265,-3.390542388,2018-07-05
+37858,Alava,Victoria,"C/ JOSE MARIA IPARRAGUIRRE, 19",Repsol,945 154 390,ABIERTO 24 HORAS,42.836667,-2.659722
+37859,Santa Leocadia de Algama,Corral Roig S/N,Petrem Trucks,972 514 615,L-D: 24 horas,42.230971,2.956654,2018-09-24
+37860,Castellon de Ampurias,Carrer de Orlina S/N,Repsol,972 456 013,L-D: 06:00-22:00,42.253,3.095333,2018-09-24
+37861,Madrid,Torres de la Alameda,"Calle Bruselas, 2",Green Gas Fuel,91 867 51 20,L-D: 09:00-21:00 horas,40.408284,-3.371485
+37862,Algeciras,"Paseo Victoria Eugenia, SN",Repsol,95 657 27 29,L-D: 24 HORAS,36.116944,-5.444722,2018-10-09
+37863,Lodares de Medinaceli,"A2 - KM 154,4",Repsol,97 518 21 27,L-D: 24 horas,41.189347,-2.404335,2018-10-16
+37865,Valencia,Valencia,"Avda De Les Corts Valencianes, 57",Repsol,961 48 74 18,L-D: 24 horas,39.494769,-0.403239
+37866,Valencia,Valencia,"Calle Traginers, 2",Repsol,963 791 731,L-D: 06:00 - 22:00,39.462883,-0.406528
+37867,Cantabria,Bolmir,"Autovia A67, PK. 133,4",CEPSA,942 751 331,L-D: 24 horas,42.986588,-4.134681
+37868,Ciudad Real,Membrilla,"CTRA. N-430 KM. 366,1",Roderoil,926 160 083,L-D: 24 horas,38.985806,-3.3535
+37869,Valencia,Sagunto,Avda. de les Moreres s/n - CC Vidanova Parc,Buran Energy,962 120 325,L-V: 07:00 a 22:00 horasS: 09:00 a 22:00 horasD y festivos: 09:00 a 14:00 y 16:00 a 21:00 horas.,39.671503,-0.264653
+37870,Asturias,Jarrio,"Pol. Ind. Rio Pinto de Jarrio, Parc. 102",Repsol,985 624 850,L-D: 7:00 a 23:00h,43.542419,-6.764442
+37871,Hospitalet de Llobregat,"Av. Joan de Carles, I 16-20",Ecobenz,932 966 089,L-D: 24 horas,41.34824,2.133992,2019-02-14
+37872,Toledo,Casarrubios del Monte,Ctra. A5 Km. 40 - Urb. Valdeoro,Shell,689 36 96 79,L-D: 24 horas,40.223468,-4.07544
+37873,Malaga,"CR A-45 P.K. 165,00 I",Repsol,952 256 745,L-D: 24 horas,36.76899,-4.424682,2019-03-13
+37874,Ourense,Xinzo de Limia,"A, Pista da Devesa",Repsol,988 46 01 14,Cerrado noches,42.075895,-7.727122
+37875,"Coria del Râ;Avenida Blas Infante, 41""",Repsol,954 771 870,L-D: 24 horas (excepto domingo),37.278017,-6.058154,2019-03-22,
+37879,Asturias,Jarrio,"PG RIO PINTO DE JARRIO , PARC.102 (C.P. 33719, JARRIO , ASTURIAS)",REPSOL,985 624 850,,43.542.482,-6.764.570
+37880,Sevilla,"Avenida de Jerez, 24 - 41012 Sevilla",REPSOL,954 680 169,24 HORAS,37.338.381,-5.971.288,2019-07-26
+37881,Estepa,"CR A-92 P.K. 110.1 I, 41560 Estepa, Sevilla",REPSOL,955 912 384,L-D: Hasta 23 horas,37.302.013,-4.880.127,2019-07-26
+37882,Bizkaia,Otxandio,"Carretera Foral 623, km 44 - 48210 Otxandio (Bizkaia)",AVIA,945 450 241,L-D: 06-22:00 horas,43.063.459,-2.662.007
+37883,Madrid,Madrid,Calle Sangenjo S/N,REPSOL,913781405,24 HORAS,40.483.275,-3.705.384
+37884,Ourense,Xinzo de Limia,"A, Pista da Devesa, 32630 Xinzo de Limia, Ourense",REPSOL,988 460 114,,42.076.028,-7.727.101
+37885,M!ga,"CR A-45 P.K. 165,00 I, M!ga",REPSOL,,24 HORAS,36.768.697,-4.424.368,2019-07-26
+37886,"Coria del Râ;Av. de Blas Infante, 41, 41100 Coria del Rì Sevilla""",REPSOL,,,37.278.004,-6.058.129,2019-07-26,
+37887,Madrid,San Fernando de Henares,"Calle Cerrajeros 10 Canteros C, V, 28830 San Fernando de Henares, Madrid",BP,913 407 662,24 HORAS,40.441.653,-3.501.390
+37888,Madrid,Rivas-Vaciamadrid,"CR N-3 ,P.K. 14,40 M.D, 28051 Rivas-Vaciamadrid, Madrid",REPSOL,,,40.357.597,-3.559.035
+37889,Madrid,Madrid,"CR M-50 P.K. 34 D, 28051 Madrid",REPSOL,917 653 283,,40.346.262,-3.587.544
+37890,Madrid,Parla,"Calle Buenavista, 2, 28980 Parla, Madrid",GALP,916 058 526,L-D: 06-24:00 horas,40.251.466,-3.764.336
+37891,Madrid,Alcal$e Henares,"N-II, KM 29 - Subida",GALP,918 886 680,21 HORAS,40.493.423,-3.386.689
+37892,Madrid,Alcal$e Henares,"N-II, KM 29 - Bajada",GALP,918 897 058,22 HORAS,40.494.337,-3.387.853
+37893,Madrid,Alcobendas,"Ctra. Antigua Nacional I KM 15,5",GALP,916 519 839,23 HORAS,40.532.889,-3.642.261
+37894,Madrid,Fuenlabrada,"Calle Luis Sauquillo, 92",GALP,916 977 184,24 HORAS,40.275.079,-3.805.384
+37895,Madrid,Madrid,"Niceto Alcalamora, 20",GALP,917 188 161,24 HORAS,40.494.072,-3.648.116
+37896,Madrid,Madrid,Av. Vic6aro esq. Pobladura del Valle,GALP,917 756 998,24 HORAS,40.426.602,-3.611.691
+37897,Madrid,Madrid,"Av. Arcentales, 7",GALP,913 274 955,24 HORAS,40.426.641,-3.626.051
+37898,Madrid,Madrid,"C/ Sinieso Delgado, 15",GALP,913 235 345,24 HORAS,40.473.840,-3.701.391
+37899,Madrid,Madrid,"Camino del cuartel, 9",GALP,913 054 728,24 HORAS,40.467.967,-3.578.741
+37900,Madrid,Pinto,Ctra. M506 km24,GALP,916 916 801,24 HORAS,40.255.328,-3.727.283
+37901,C)z,Avenida de la Ilustraciz  - Cadiz,REPSOL,956 294 435,L-D: 06-22:00 horas,36.508.191,-6.268.251,2019-07-26
+37902,C)z,"Avenida de Algeciras, 9 - C)z",HEMEGAS,956 715 187,24 HORAS,36.498.217,-6.267.455,2019-07-26
+37903,"A CoruF»Carballo""","Avda Malpica, 80-84",REPSOL,981 755 452,L-D: 7:00 a 23:00 horas,43.220015,-8.702042,2019-08-27
+37904,Avila,"Calle Hornos Caleros, SN",REPSOL,920 220 699,L-D: 7:00 a 23:00 horas,40.649049,-4.673364,2019-08-27
+37905,Lugo,Monforte de Lemos,"Rua de Chantada, SN",REPSOL,982 405 127,24 horas,42.525807,-7.527201
+37906,Madrid,Madrid,"Avenida Albufera, 319",REPSOL,913 310 590,24 horas,40.384426,-3.632624
+37907,Murcia,La Aljorra,"CR. Mu-602 11,30 - 30390 La Aljorra",REPSOL,968 551 035,24 horas,37.686625,-1.066229
+37908,Navarra,Pamplona,"Calle Mari Abrego, 5 | 31006",REPSOL,948 835 233,L-D: 7:00 a 23:00 horas,42.797616,-1.645218
+37910,Albacete,Hellin,A-30 KM 63,PetroEspaF¥s,965 751 169,L-D: 24 Horas,38.496059,-1.636594
+37911,Madrid,Morazarzal,"Calle Lago Ontario, 24, A",CEPSA,910 53 17 31,L-D: 6:00 a 00:00 horas,40.671905,-3.972761
+37912,Lucena,"Av. de la Guardia Civil, 9",Enerplus,957 59 18 54,L-D: 6:00 a 22:00 horas,37.405427,-4.494018,2020-02-14
+37913,Murcia,San Javier,"Av. Pinatar, 78,",Hijos de Navarro Robles S.L.,968 54 74 06,L-D: 24 Horas,37.81728,-0.819
+37914,Castell-Platja d\'Aro,"Avenida Carrilet, 36",Epsilon Plus,669 411 899,L-D: 24 Horas,41.813801,3.030311,2020-06-04
+37915,La Carlota,Crta. A4 Madrid - Cadiz KM. 441,E.S. El Empalme,957 033 940,L-D: 6:00 a 23:00 horas,37.602845,-4.972593,2020-06-29
+37916,Madrid,Guadarrama,"N-VI, Guadarrama",Avia,,,40.646096,-4.041064
+37917,Madrid,Madrid,"Calle Hilario Herranz Establos, 20",Low Cost Repost,649 376 447,L-D: 24 Horas,40.37267,-3.729208
+37918,Vera,Ctra. Vera a Garrucha KM 1.8,BP,601 630 752,L-D: 7:00 a 23:00 horas,37.234583,-1.850611,2020-09-11
+37919,Venta del Peral,A-92 Murcia-Granada KM 58,BP,958 730 019,L-D: 6:00 a 00:00 horas,37.553444,-2.614111,2020-09-11
+37921,Alicante,Benissa,"Avenida de Europa, 34",MASOIL,,,38.71919,0.060607
+37922,Les Borges Blanques,"Pol. Ind. Carrer les Verdunes, parc 49, 25400 Les Borges Blanques, Lleida",Autoreparacio Borges S.L.,973 143 520,L-V: 9:00 a 13:00 y 15:30 a 19:30,41.508718,0.846957,2020-11-13
+37923,Guipuzcoa,Elgoibar,"Kalea Valle Aiastia, 907",EE.SS. MLC Elgoibar,943 56 20 92,L-D: 24 horas,43.221318,-2.406668
+37924,Benissa,Calle Juan de la Cierva 13,MEROIL,619316110,L-V: 7 A 21H Y S: 8 A 21H,38.726739,0.076634,2021-06-29
+37925,Valencia,Sagunto,"Calle Padre Claret, 97",Gasoprix,962 680 889,L-V: 7 A 22H | S: 9 A 22H | D Y FEST: 9 A 14H Y 16 A 21H,39.662459,-0.240228
+37926,Ciudad Real,La Solana,"Avenida de los Industriales, 515",Galanes Oil,,L-D: 24 horas,38.93934,-3.25932
+37927,Sant FruitŽ$e Bages,"Polïno industrial La BJla, Carrer Barcelona, 60-68",Petro Pinto,938 76 08 28,L-V: 6 A 22: HORAS,41.75417,1.87137,2021-09-01
+37928,Velez-Malaga,Calle Ignacio Zuloaga 29,Distreax 22,951 325 417,L-D: 6:00 a 22:00 horas,36.76319,-4.09489,2021-10-05
+37930,Asturias,Asturias,"AV PALACIO VALDS n2
+ 
+
+ RIBADESELLA, 33560
+ 
+
+ Asturias, EspaDŠ",Repsol,985 86 14 60,6:00³:00,"5u\'39.4\""W","43¹\'03.9\""N"
+37931,M!ga,"POLIGONO INDUSTRIAL TREVELEZ, C. Offenbach, S/N, 29010 M!ga",CEPSA,,24 horas,"362\'47.2\""N","4ð\'43.1\""W",2022-08-04
