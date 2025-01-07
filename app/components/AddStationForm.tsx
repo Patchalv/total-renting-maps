@@ -6,6 +6,7 @@ import { Station } from "../typings";
 interface AddStationFormProps {
     stations: Station[];
     setStations: (stations: Station[]) => void;
+    onAddStationSuccess: () => void;
 }
 
 const initialStation: Station = {
@@ -15,12 +16,12 @@ const initialStation: Station = {
     marca: '',
     telefono: '',
     horario: '',
-    latitud: '',
-    longitud: '',
-    fecha: '',
+    latitud: '40.4168',
+    longitud: '-3.7038',
+    fecha: new Date().toISOString().split('T')[0],
 };
   
-const AddStationForm = ({ stations, setStations }: AddStationFormProps) => {
+const AddStationForm = ({ stations, setStations, onAddStationSuccess }: AddStationFormProps) => {
     const [newStation, setNewStation] = useState<Station>(initialStation);
 
     const handleInputChange = (e: ChangeEvent<HTMLInputElement>) => {
@@ -45,6 +46,7 @@ const AddStationForm = ({ stations, setStations }: AddStationFormProps) => {
         }];
         setStations(updatedStations);
         localStorage.setItem('stations', JSON.stringify(updatedStations));
+        onAddStationSuccess();
       };    
 
   return (
@@ -113,7 +115,7 @@ const AddStationForm = ({ stations, setStations }: AddStationFormProps) => {
           className="border p-2 w-full"
         />
         <input
-          type="text"
+          type="date"
           name="fecha"
           placeholder="Fecha"
           value={newStation.fecha}

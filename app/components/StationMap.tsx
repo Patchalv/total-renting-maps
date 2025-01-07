@@ -11,6 +11,7 @@ const mapCenter = { lat: 40.4168, lng: -3.7038 };
 const StationMap = () => {
     const [stations, setStations] = useState<Station[]>([]);
     const [isModalOpen, setIsModalOpen] = useState(false);
+    const [showSnackbar, setShowSnackbar] = useState(false);
   
     useEffect(() => {
         fetch('/Gas Stations.csv')
@@ -27,6 +28,14 @@ const StationMap = () => {
     
       const handleCloseModal = () => {
         setIsModalOpen(false);
+    };
+
+    const onAddStationSuccess = () => {
+        setIsModalOpen(false);
+        setShowSnackbar(true);
+        setTimeout(() => {
+            setShowSnackbar(false);
+        }, 3000);
     };
     
     return (
@@ -59,8 +68,13 @@ const StationMap = () => {
                     &times;
                   </button>
                 </div>
-                <AddStationForm stations={stations} setStations={setStations} />
+                <AddStationForm stations={stations} setStations={setStations} onAddStationSuccess={onAddStationSuccess}/>
               </div>
+            </div>
+          )}
+          {showSnackbar && (
+            <div className="fixed bottom-0 right-0 m-4 p-4 bg-green-500 text-white rounded-lg shadow-lg">
+              Station added successfully!
             </div>
           )}
         </div>
